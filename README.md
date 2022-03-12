@@ -18,7 +18,7 @@
 </p>
 
   <p align="center">
-<a href="#"><img title="AbuSer" src="https://img.shields.io/badge/JASIL-ABU_SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AbuSer" src="https://img.shields.io/badge/RAMBO-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
@@ -32,10 +32,10 @@
 </p>
 
 
-<a href="https://github.com/Afx-Abu/Abu_ser/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/rambo/fork"><img align="center" src= alt="Fork and deploy" height="112" width="300" /></a>
 <br>
 <div>
-<a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://replit.com/@RAMBO/RAMBO-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
 <a href="https://jasils-website.yolasite.com/"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
@@ -49,5 +49,5 @@
 CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/M9ThzcR.png" alt="kyrie.baran" height="100" width="300" /></a>
+  <a href="" target="blank"><img align="center" src="https://i.imgur.com/M9ThzcR.png" alt="kyrie.baran" height="100" width="300" /></a>
 </p> 
