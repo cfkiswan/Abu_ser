@@ -18,7 +18,7 @@
 </p>
 
   <p align="center">
-<a href="#"><img title="AbuSer" src="https://img.shields.io/badge/RAMBO-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RAMBO" src="https://img.shields.io/badge/RAMBO-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
@@ -28,7 +28,7 @@
         Reserved |
     <br> 
 </p>
-<img src=https://i.imgur.com/8LiFere.png>
+<img src=>
 </p>
 
 
@@ -44,10 +44,10 @@
 <a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
 
 ##
-  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
+  <h3 align=">📢 JOIN OUR SUPPORT GROUP:</h3>
 <p align="center">
 CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
 <br>
-  <a href="" target="blank"><img align="center" src="https://i.imgur.com/M9ThzcR.png" alt="kyrie.baran" height="100" width="300" /></a>
+  <a href="" target="blank"><"center" src="" alt="kyrie.baran" height="100" width="300" /></a>
 </p> 
